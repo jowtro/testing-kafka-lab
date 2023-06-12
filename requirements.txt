@@ -1,0 +1,5 @@
+-i https://pypi.org/simple
+aiokafka==0.8.1
+async-timeout==4.0.2 ; python_version >= '3.6'
+kafka-python==2.0.2
+packaging==23.1 ; python_version >= '3.7'
